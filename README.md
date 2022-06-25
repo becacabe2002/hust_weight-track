@@ -1,10 +1,9 @@
 # Hust Weight Tracker
-### This is a demo website for Database Experiment course (IT3290 - 130993)
+> This is a demo website for Database Experiment course (IT3290 - 130993)
 
-*This project will run on local host (WAMPserver64)*
+***This project will be run on local host (WAMPserver64)***
 
 ## Instruction to run this website locally
-<br> </br>
 ### Setup local server
 - Install WAMPserver through this [link](https://sourceforge.net/projects/wampserver/files/WampServer%203/WampServer%203.0.0/wampserver3.2.6_x64.exe/download)
 - Choose your browser (Chrome, Edge, ...)
